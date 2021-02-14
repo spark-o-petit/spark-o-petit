@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Pomodoro project and Gangster Pizza Website Design
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Sci-kit learn
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Medicine, 
