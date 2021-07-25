@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Pomodoro project and Gangster Pizza Website Design
-- 🌱 I’m currently learning Sci-kit learn
+- 🔭 I’m currently working on ADNI_ML project and KMRF homepage
+- 🌱 I’m currently learning sklearn, tensorflow
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Medicine, 
