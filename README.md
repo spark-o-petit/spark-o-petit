@@ -17,28 +17,15 @@
 - To drive healthcare innovation in the era of the Fourth Industrial Revolution by integrating clinical expertise with cutting-edge IT
 
 ## 🛠 Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
-
-## 🛠 Tech Stack
-
-## 🛠 Tech Stack
 
 ### Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 
 ### Data Science & Machine Learning
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 
 ### iOS Development
-<img src="https://img.shields.io/badge/SwiftUI-46B1E7?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lottie-00B3E6?style=for-the-badge&logo=lottie&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-46B1E7?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Lottie-00B3E6?style=for-the-badge&logo=lottie&logoColor=white"/>
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -48,7 +35,5 @@
 
 ### Cross-Platform / 3D
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
