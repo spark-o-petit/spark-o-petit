@@ -1,18 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8DBCC7,100:C4E1E6&height=300&section=header&text=Alex%20J%20Choi)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=131D4F&width=435&lines=Bridging+Medicine+And+Tech)](https://git.io/typing-svg)
-
 ## 🩺 About Me
+
 - I have clinical experience as an internal medicine resident, with a deep understanding of chronic diseases and metabolism.
 - Currently, I'm pursuing graduate studies in endocrinology and metabolism, combining clinical research with data-driven healthcare innovation.
 - Inspired by the recent healthcare crisis in Korea, I am passionate about building **personalized healthcare solutions** that can make a real difference.
 
 ## 💡 Interests
+
 - Planning and developing personalized healthcare services based on biosignal monitoring
 - Leveraging LLM, machine learning, and deep learning for medical data analysis and insight generation
 - Bridging the communication gap between healthcare professionals and tech experts through collaboration
 
 ## 🚀 Goals & Vision
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=131D4F&width=435&color=true&lines=Bridging+Medicine+And+Tech)](https://git.io/typing-svg)
+
 - To develop user-centric products that help prevent and manage chronic diseases through lifestyle monitoring and feedback
 - To drive healthcare innovation in the era of the Fourth Industrial Revolution by integrating clinical expertise with cutting-edge IT
 
