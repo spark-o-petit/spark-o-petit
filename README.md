@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8DBCC7,100:C4E1E6&height=300&section=header&text=Alex%20J%20Choi)
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=131D4F&width=435&lines=Bridging+Medicine+And+Tech)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ADNI_ML project and KMRF homepage
 - 🌱 I’m currently learning sklearn, tensorflow
