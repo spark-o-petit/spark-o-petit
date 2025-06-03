@@ -15,7 +15,7 @@
 ## 🚀 Goals & Vision
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=131D4F&width=435&center=true&lines=Bridging+Medicine+And+Tech)](https://git.io/typing-svg)
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=131D4F&width=435&center=true&lines=Bridging+Medicine+And+Tech"/>
 </p>
 
 - To develop user-centric products that help prevent and manage chronic diseases through lifestyle monitoring and feedback
