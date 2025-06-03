@@ -36,4 +36,9 @@
 ### Cross-Platform / 3D
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
+## 📫 Contact
+
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>]([https://www.notion.so/your-notion-link](https://junghwanchoi.notion.site/Junghwan-Choi-Alex-82b5f61703424f01ae14d3b6e3a3a226)) [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/alex-junghwanchoi/)) [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>]([https://your-tistory-link](https://bridging-medicine-and-tech.tistory.com/)) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/hwanee_choi)
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8DBCC7,100:C4E1E6&height=100&section=footer" />
