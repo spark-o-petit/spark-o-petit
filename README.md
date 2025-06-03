@@ -14,7 +14,9 @@
 
 ## 🚀 Goals & Vision
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=131D4F&width=435&center=true&lines=Bridging+Medicine+And+Tech)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=131D4F&width=435&center=true&lines=Bridging+Medicine+And+Tech)](https://git.io/typing-svg)
+</p>
 
 - To develop user-centric products that help prevent and manage chronic diseases through lifestyle monitoring and feedback
 - To drive healthcare innovation in the era of the Fourth Industrial Revolution by integrating clinical expertise with cutting-edge IT
