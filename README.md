@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8DBCC7,100:C4E1E6&height=300&section=header&text=Alex%20J%20Choi&desc=Bridging%20Medicine%20And%20Tech&renderfontSize=90)
+
+
 
 - 🔭 I’m currently working on ADNI_ML project and KMRF homepage
 - 🌱 I’m currently learning sklearn, tensorflow
