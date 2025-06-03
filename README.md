@@ -36,4 +36,4 @@
 ### Cross-Platform / 3D
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8DBCC7,100:C4E1E6&height=100&section=footer" />
